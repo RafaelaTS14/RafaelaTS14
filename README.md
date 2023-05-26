@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafaeka</h1>
 <h3 align="center">A passionate development student from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelats14&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelats14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelats14" alt="rafaelats14" /></a> </p>
 
 - 🌱 I’m currently learning **PHP, MySQL and JS**
 
