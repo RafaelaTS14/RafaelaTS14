@@ -2,7 +2,7 @@
 <h3 align="center">A passionate development student from Brasil</h3>
 
 
-- 🌱 I’m currently learning **PHP, MySQL and JS**
+- 🌱 I’m currently learning **PHP POO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RafaelaTS14](https://github.com/RafaelaTS14)
 
