@@ -2,7 +2,7 @@
 <h3 align="center">A passionate development student from Brasil</h3>
 
 
-- 🌱 I’m currently learning **PHP POO**
+- 🌱 I’m currently learning **.Net 6**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RafaelaTS14](https://github.com/RafaelaTS14)
 
