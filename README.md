@@ -60,6 +60,7 @@
 
 ###
 <div align=center>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=213w5gnt3syzwf76bsjdvhtli&cover_image=true&theme=default&show_offline=false&background_color=141414&interchange=true&bar_color=4d11a7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=213w5gnt3syzwf76bsjdvhtli&redirect=true)
 </div>
 
